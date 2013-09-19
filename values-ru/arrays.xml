@@ -963,8 +963,8 @@
         <item>hotmail.com</item>
      </string-array>
      <string-array name="visible">
-        <item>Показать все</item>
-        <item>Показать контакты</item>
+        <item>Виден всем</item>
+        <item>Только друзям</item>
         <item>Скрыть</item>
      </string-array>
      <string-array name="wall_operations">
